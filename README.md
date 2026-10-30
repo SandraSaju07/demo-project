@@ -1,2 +1,2 @@
 # demo-project
-A sample demo project to see GitHub actions in action
+A sample demo project to see GitHub Actions in action
