@@ -13,7 +13,6 @@
 
     "skipLibCheck": true,
     "allowJs": true,
-    // "checkJs": true,
     
     "strict": false,
     "types": ["jest", "node"]
