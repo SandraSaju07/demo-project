@@ -4,7 +4,6 @@
     "esModuleInterop": true,
     "target": "es6",
     "moduleResolution": "node",
-    "ignoreDeprecations": "6.0",
     "removeComments": true,
     "sourceMap": false,
 
@@ -17,6 +16,7 @@
     // "checkJs": true,
     
     "strict": false,
+    "types": ["jest", "node"]
   },
   "include": ["src"],
   "exclude": ["node_modules", "dist/*", "src/static"],
